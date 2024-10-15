@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web/7.0.203">
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.203" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Razbor.DAL\Database.csproj" />
+  </ItemGroup>
+
+</Project>

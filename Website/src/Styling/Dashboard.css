@@ -1,0 +1,49 @@
+  .dashboard {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .dashboard .chat-list-section {
+    width: 20%;
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .dashboard .matchmaker-section {
+    width: 80%;
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .dashboard .primary-button{
+    color: rgb(232,233,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,91);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+  
+  .dashboard .primary-button:hover{
+    background-color: rgb(190,0,90);
+  }
+
+  .dashboard .matches-section .picture-container img{
+    max-width: 400px;
+    max-height: 500px;
+    object-fit: contain;
+    border: solid 2px rgb(245,175,45);
+    border-radius: 10px;
+  }
+
+  
+
+  
+  
+  
+

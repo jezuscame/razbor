@@ -1,0 +1,65 @@
+  .home{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: linear-gradient(
+      to bottom,
+      rgba(160,0,40, 0.5) 0%,
+      rgba(48, 50, 58, 0.6) 50%,
+      rgba(160,0,40, 0.5) 100%
+    ), url('../images/home-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .home .primary-title{
+    font-size: 40px;
+    color: rgb(210,0,91);
+    margin: 10px;
+  }
+
+  .home .secondary-title{
+    font-size: 20px;
+    color: rgb(235,235,235);
+    margin-bottom: 40px;
+  }
+
+  .home .primary-button{
+    color: rgb(232,233,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,91);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+  
+  .home .primary-button:hover{
+    background-color: rgb(190,0,90);
+  }
+
+  .home label {
+    margin: 10px 0;
+    font-size: larger;
+  }
+  
+  .home .secondary-button  {
+    color: rgb(68,143,163);
+    background-color: rgb(232,233,235);
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: solid 2px rgb(68,143,163);
+    margin: 6px;
+  }
+  
+  .home .secondary-button:hover{
+    color: rgb(47,50,58);
+    border: solid 2px rgb(47,50,58);
+  }

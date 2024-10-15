@@ -1,0 +1,59 @@
+.chat-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(48, 50, 58);
+    width: 100%;
+    height: 100%;
+    border-right: solid 4px rgb(245,175,45);
+    color: rgb(235,235,235);
+}
+
+.chat-list .chat-list-button{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0%;
+    background-color:  rgb(48, 50, 58);
+    border: solid 2px rgb(48, 50, 58);
+}
+
+.chat-list .chat-list-button:hover{
+    border-top: solid 2px rgb(245,175,45);
+    border-bottom: solid 2px rgb(245,175,45);
+}
+
+.chat-list .update-button{
+    color: rgb(48, 50, 58);
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: rgb(245,175,45);
+    padding: 10px 28px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px;
+}
+  
+.chat-list .update-button:hover{
+    background-color: rgb(230,160,30);
+}
+
+.chat-list .chat-list-button .picture-container{
+    width: 30%;
+}
+
+.chat-list .chat-list-button .picture-container img{
+    width: 50px;
+    height: 50px;
+    border: solid 4px rgb(245,175,45);
+    border-radius: 10px;
+}
+
+.chat-list .chat-list-button .username-container{
+    width: 70%;
+    color: rgb(235,235,235);
+    font-size: 16px;
+}

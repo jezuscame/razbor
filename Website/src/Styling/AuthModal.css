@@ -1,0 +1,68 @@
+  .auth-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(48, 50, 58, 0.8);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .auth-modal .input-container {
+    position: center;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(235,235,235);
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(210,0,90);
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .auth-modal .close-button{
+    float: right;
+    color: rgb(210,0,90);
+    border: none;
+  }
+
+  .close-button:hover{
+    color: rgb(190,0,90);
+  }
+
+  .auth-modal .error{
+    color: red;
+  }
+  
+  .auth-modal form{
+    display: flex;
+    flex-direction: column;  
+  }
+  
+  .auth-modal input[type=text],
+  .auth-modal input[type=password]{
+    padding: 8px;
+    margin: 8px;
+    font-size: 17px;
+    border-radius: 10px;
+  }
+
+  .auth-modal .login-button{
+    color: rgb(232,232,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,90);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+    margin: 4px;
+  }
+  
+  .auth-modal .login-button:hover{
+    background-color: rgb(190,0,90);
+  }

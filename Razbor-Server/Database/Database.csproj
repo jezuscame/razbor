@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Razbor.DAL\**" />
+    <EmbeddedResource Remove="Razbor.DAL\**" />
+    <None Remove="Razbor.DAL\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

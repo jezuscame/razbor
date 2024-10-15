@@ -1,0 +1,133 @@
+  .profile form{
+    display: flex;
+    justify-content: center;  
+  }
+  
+  .profile form section{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 30%;
+    text-align: start;
+  }
+  
+  .profile form input{
+    padding: 15px 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: solid 2px rgb(219,219,219);
+    border-radius: 10px;
+  }
+
+  .profile form input[disabled] {
+    color: inherit;
+    cursor: not-allowed;
+  }
+  
+  .profile form input::-webkit-outer-spin-button,
+  .profile form input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  .profile form .multiple-input-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .profile form .multiple-input-container label{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: solid 2px rgb(144,144, 144);
+    border-radius: 10px;
+    transition: all 0.3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .profile form .multiple-input-container input{
+    width: 100%; 
+  }
+  
+  .profile form input[type="radio"] {
+    display: none;
+  }
+
+  .profile form input[type="radio"]:disabled + label{
+    cursor: not-allowed;
+  }
+
+  .profile form input[type="radio"]:checked + label{
+    border: solid 2px rgb(210,0,91);
+  }
+
+  .profile form .button-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  }
+
+  .profile form input[type="button"]  {
+    width: 25%;
+    color: rgb(48, 50, 58);
+    background-color: rgb(245,175,45);
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    border-radius: 30px;
+    margin: 6px;
+  }
+  
+  .profile input[type="button"]:hover{
+    background-color: rgb(230,160,30);
+  }
+
+  .profile form input[type="submit"]{
+    width: 60%;
+    color: rgb(232,233,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,91);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+
+  .profile form input[type="submit"]:hover {
+    background-color: rgb(190,0,90);
+  }
+
+  .profile form input[type="submit"]:disabled {
+    background-color: rgba(190,0,90,0.7);
+  }
+
+  .profile .picture-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .profile .picture-container img{
+    width: 570px;
+    height: 570px;
+    border: solid 2px rgb(246,174,45);
+    border-radius: 10px;
+  }
+  
+  .profile .inputErrorMessage {
+    color: red;
+  }
+  
+  .profile .errorMessage {
+    color: red;
+  }

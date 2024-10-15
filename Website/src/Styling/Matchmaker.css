@@ -1,0 +1,60 @@
+.matchmaker {
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .matchmaker .primary-button{
+    color: rgb(232,233,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,91);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+  
+  .matchmaker .primary-button:hover{
+    background-color: rgb(190,0,90);
+  }
+  
+  .matchmaker .button-container {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .matchmaker .card {
+    width: 500px;
+    height: 680px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border: solid 6px rgb(210,0,90);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .matchmaker .swipe-info {
+    text-align: center;
+    color: rgb(210,0,91);
+  }
+
+  .matchmaker .card .picture-container img{
+    width: 400px;
+    height: 400px;
+    border: solid 4px rgb(245,175,45);
+    border-radius: 10px;
+  }
+
+  
+
+  
+  
+  
+

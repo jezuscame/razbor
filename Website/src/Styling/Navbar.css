@@ -1,0 +1,53 @@
+  nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    background-color: rgb(48, 50, 58);
+    border-bottom: solid 6px rgb(245,175,45);
+  }
+
+  nav .navigation{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+  }
+
+  nav .authentication{
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+  }
+
+  nav .logo-button{
+    display: flex;
+    align-items: center;
+    background-color: rgb(48, 50, 58);
+    border: none;
+  }
+  
+  nav .logo-button img{
+    width: 65px;
+    margin: 5px;
+  }
+
+  nav .logo-button:hover {
+    cursor: pointer;
+  }
+  
+  nav .nav-button {
+    color: rgb(48, 50, 58);
+    background-color: rgb(245,175,45);
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+  }
+
+  nav .nav-button:hover {
+    background-color: rgb(230,160,30);
+    cursor: pointer;
+  }

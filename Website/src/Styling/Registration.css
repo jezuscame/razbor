@@ -1,0 +1,103 @@
+  .registration form{
+    display: flex;
+    justify-content: center;  
+  }
+  
+  .registration form section{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 30%;
+    text-align: start;
+  }
+  
+  .registration form input{
+    padding: 15px 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: solid 2px rgb(219,219,219);
+    border-radius: 10px;
+  }
+  
+  .registration form input::-webkit-outer-spin-button,
+  .registration form input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  .registration form .multiple-input-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .registration form .multiple-input-container label{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: solid 2px rgb(144,144, 144);
+    border-radius: 10px;
+    transition: all 0.3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .registration form .multiple-input-container input{
+    width: 100%; 
+  }
+  
+  .registration form input[type="radio"] {
+    display: none;
+  }
+
+  .registration form input[type="radio"]:hover + label{
+    cursor: pointer;
+  }
+
+  .registration form input[type="radio"]:checked + label {
+    border: solid 2px rgb(210,0,91);
+  }
+
+  .registration form input[type="submit"]{
+    color: rgb(232,233,235);
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(210,0,91);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+
+  .registration form input[type="submit"]:hover {
+    background-color: rgb(190,0,90);
+  }  
+
+  .registration .picture-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .registration .picture-container img{
+    width: 570px;
+    height: 570px;
+    border: solid 2px rgb(246,174,45);
+    border-radius: 10px;
+  }
+  
+  .registration .inputErrorMessage {
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .registration .errorMessage {
+    color: red;
+  }
