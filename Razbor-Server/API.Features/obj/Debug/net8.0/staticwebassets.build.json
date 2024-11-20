@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "CZehQd5NOJaeL7dTXw2U0ZP7Ec+SkWAZKbeZE42Chy8=",
+  "Hash": "IldXfNxHU6wljVH6e5xBSenG0ty9XeRnqZ5ioHeXpVk=",
   "Source": "API.Features",
   "BasePath": "_content/API.Features",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
       "Version": 2,
       "Source": "Responses",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\Services\\Services.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj",
       "Version": 2,
       "Source": "Services",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

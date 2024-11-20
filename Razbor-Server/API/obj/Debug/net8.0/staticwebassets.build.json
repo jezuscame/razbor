@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "RaoHf6R6f6Vmpq2I6DKV1Om6IwM/2V5Fm84OJyrqd3Y=",
+  "Hash": "MXvu+A8mWv2uHhEo9t1+C2rT7UZTozaL6blxTcyjyMg=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
       "Version": 2,
       "Source": "API.Features",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
       "Version": 2,
       "Source": "Responses",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -40,7 +40,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\Services\\Services.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj",
       "Version": 2,
       "Source": "Services",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

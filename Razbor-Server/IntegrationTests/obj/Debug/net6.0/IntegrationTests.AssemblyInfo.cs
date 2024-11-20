@@ -11,12 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Xunit.TestFramework("Xunit.DependencyInjection.DependencyInjectionTestFramework", "Xunit.DependencyInjection")]
-[assembly: Xunit.DependencyInjection.StartupType("IntegrationTests.Startup", "IntegrationTests")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63e4b9795fb7f2b817ab1828e66785931e7d5ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4bd9b2735dc567cf2e735b146142bc26961387")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
