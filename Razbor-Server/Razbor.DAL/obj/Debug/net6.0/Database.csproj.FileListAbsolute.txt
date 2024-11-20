@@ -9,3 +9,14 @@ C:\Users\linku\Desktop\Uni\PSI\sprintLast\razbor\Razbor-Server\Razbor.DAL\obj\De
 C:\Users\linku\Desktop\Uni\PSI\sprintLast\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\refint\Database.dll
 C:\Users\linku\Desktop\Uni\PSI\sprintLast\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.pdb
 C:\Users\linku\Desktop\Uni\PSI\sprintLast\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\ref\Database.dll
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.deps.json
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.dll
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.pdb
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.sourcelink.json
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.dll
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\refint\Database.dll
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.pdb
+C:\Users\Erikas\Documents\GitHub\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\ref\Database.dll

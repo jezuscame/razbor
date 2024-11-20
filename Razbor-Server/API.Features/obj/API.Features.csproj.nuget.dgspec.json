@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {}
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+        "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
         "projectName": "API.Features",
-        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
-        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\obj\\",
+        "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+        "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,17 +32,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               },
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
               },
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
               },
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj"
               }
             }
           }
@@ -66,6 +69,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
@@ -87,21 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
-        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
+        "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,6 +162,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
@@ -165,40 +179,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+        "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
         "projectName": "RequestBodies",
-        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
-        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
+        "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+        "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -213,8 +216,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               }
             }
           }
@@ -233,6 +236,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -244,20 +253,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -266,21 +261,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+        "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
         "projectName": "Responses",
-        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
-        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\obj\\",
+        "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+        "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -295,11 +293,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               },
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
               }
             }
           }
@@ -322,6 +320,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
@@ -335,20 +337,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -357,21 +345,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj": {
+    "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -386,8 +377,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               }
             }
           }
@@ -410,6 +401,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.203, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
@@ -431,7 +426,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

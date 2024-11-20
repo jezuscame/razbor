@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "MWBQtUImghPi3iFKmWDmWZ9mR2kCI7WiQ8ctZzUREXE=",
+  "Hash": "3228r4mjP7faawquoT5hJTkskkHaPpdfyS7z4fKtRlw=",
   "Source": "Responses",
   "BasePath": "_content/Responses",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\linku\\Desktop\\Uni\\PSI\\sprintLast\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

@@ -1521,6 +1521,28 @@
           }
         }
       },
+      "NUnit/4.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package",
         "runtimeTargets": {
@@ -3241,14 +3263,6 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "xunit/2.4.2": {
-        "type": "package",
-        "dependencies": {
-          "xunit.analyzers": "1.0.0",
-          "xunit.assert": "2.4.2",
-          "xunit.core": "[2.4.2]"
-        }
-      },
       "xunit.abstractions/2.0.3": {
         "type": "package",
         "compile": {
@@ -3260,40 +3274,6 @@
           "lib/netstandard2.0/xunit.abstractions.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "xunit.analyzers/1.0.0": {
-        "type": "package"
-      },
-      "xunit.assert/2.4.2": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.1"
-        },
-        "compile": {
-          "lib/netstandard1.1/xunit.assert.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.1/xunit.assert.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "xunit.core/2.4.2": {
-        "type": "package",
-        "dependencies": {
-          "xunit.extensibility.core": "[2.4.2]",
-          "xunit.extensibility.execution": "[2.4.2]"
-        },
-        "build": {
-          "build/xunit.core.props": {},
-          "build/xunit.core.targets": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/xunit.core.props": {},
-          "buildMultiTargeting/xunit.core.targets": {}
         }
       },
       "Xunit.DependencyInjection/8.7.0": {
@@ -3369,7 +3349,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite.Design": "1.1.6",
-          "Microsoft.Extensions.DependencyInjection": "7.0.0"
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "NUnit": "4.2.2"
         },
         "compile": {
           "bin/placeholder/Database.dll": {}
@@ -3382,7 +3363,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Database": "1.0.0"
+          "Database": "1.0.0",
+          "NUnit": "4.2.2"
         },
         "compile": {
           "bin/placeholder/RequestBodies.dll": {}
@@ -3400,6 +3382,7 @@
         "dependencies": {
           "AutoMapper": "12.0.1",
           "Database": "1.0.0",
+          "NUnit": "4.2.2",
           "RequestBodies": "1.0.0"
         },
         "compile": {
@@ -5556,6 +5539,31 @@
         "lib/netstandard2.0/NuGet.Frameworks.xml",
         "nuget.frameworks.5.0.0.nupkg.sha512",
         "nuget.frameworks.nuspec"
+      ]
+    },
+    "NUnit/4.2.2": {
+      "sha512": "mon0OPko28yZ/foVXrhiUvq1LReaGsBdziumyyYGxV/pOE4q92fuYeN+AF+gEU5pCjzykcdBt5l7xobTaiBjsg==",
+      "type": "package",
+      "path": "nunit/4.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.md",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net462/nunit.framework.dll",
+        "lib/net462/nunit.framework.legacy.dll",
+        "lib/net462/nunit.framework.legacy.xml",
+        "lib/net462/nunit.framework.xml",
+        "lib/net6.0/nunit.framework.dll",
+        "lib/net6.0/nunit.framework.legacy.dll",
+        "lib/net6.0/nunit.framework.legacy.xml",
+        "lib/net6.0/nunit.framework.xml",
+        "nunit.4.2.2.nupkg.sha512",
+        "nunit.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -9727,18 +9735,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "xunit/2.4.2": {
-      "sha512": "6Mj73Ont3zj2CJuoykVJfE0ZmRwn7C+pTuRP8c4bnaaTFjwNG6tGe0prJ1yIbMe9AHrpDys63ctWacSsFJWK/w==",
-      "type": "package",
-      "path": "xunit/2.4.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "_content/logo-128-transparent.png",
-        "xunit.2.4.2.nupkg.sha512",
-        "xunit.nuspec"
-      ]
-    },
     "xunit.abstractions/2.0.3": {
       "sha512": "pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
       "type": "package",
@@ -9754,53 +9750,6 @@
         "lib/netstandard2.0/xunit.abstractions.xml",
         "xunit.abstractions.2.0.3.nupkg.sha512",
         "xunit.abstractions.nuspec"
-      ]
-    },
-    "xunit.analyzers/1.0.0": {
-      "sha512": "BeO8hEgs/c8Ls2647fPfieMngncvf0D0xYNDfIO59MolxtCtVjFRd6SRc+7tj8VMqkVOuJcnc9eh4ngI2cAmLQ==",
-      "type": "package",
-      "path": "xunit.analyzers/1.0.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "_content/logo-128-transparent.png",
-        "analyzers/dotnet/cs/xunit.analyzers.dll",
-        "analyzers/dotnet/cs/xunit.analyzers.fixes.dll",
-        "tools/install.ps1",
-        "tools/uninstall.ps1",
-        "xunit.analyzers.1.0.0.nupkg.sha512",
-        "xunit.analyzers.nuspec"
-      ]
-    },
-    "xunit.assert/2.4.2": {
-      "sha512": "pxJISOFjn2XTTi1mcDCkRZrTFb9OtRRCtx2kZFNF51GdReLr1ls2rnyxvAS4JO247K3aNtflvh5Q0346K5BROA==",
-      "type": "package",
-      "path": "xunit.assert/2.4.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "_content/logo-128-transparent.png",
-        "lib/netstandard1.1/xunit.assert.dll",
-        "lib/netstandard1.1/xunit.assert.xml",
-        "xunit.assert.2.4.2.nupkg.sha512",
-        "xunit.assert.nuspec"
-      ]
-    },
-    "xunit.core/2.4.2": {
-      "sha512": "KB4yGCxNqIVyekhJLXtKSEq6BaXVp/JO3mbGVE1hxypZTLEe7h+sTbAhpA+yZW2dPtXTuiW+C1B2oxxHEkrmOw==",
-      "type": "package",
-      "path": "xunit.core/2.4.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "_content/logo-128-transparent.png",
-        "build/xunit.core.props",
-        "build/xunit.core.targets",
-        "buildMultiTargeting/xunit.core.props",
-        "buildMultiTargeting/xunit.core.targets",
-        "xunit.core.2.4.2.nupkg.sha512",
-        "xunit.core.nuspec"
       ]
     },
     "Xunit.DependencyInjection/8.7.0": {
@@ -9918,28 +9867,32 @@
       "Microsoft.Extensions.Hosting.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Http >= 7.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
+      "NUnit >= 4.2.2",
       "RequestBodies >= 1.0.0",
       "Responses >= 1.0.0",
       "Xunit.DependencyInjection >= 8.7.0",
       "coverlet.collector >= 3.1.0",
-      "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linku\\.nuget\\packages\\": {}
+    "C:\\Users\\Erikas\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\IntegrationTests\\IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\IntegrationTests\\IntegrationTests.csproj",
       "projectName": "IntegrationTests",
-      "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\IntegrationTests\\IntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\IntegrationTests\\obj\\",
+      "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\IntegrationTests\\IntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9954,11 +9907,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-              "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
             },
-            "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
-              "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
+            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
             }
           }
         }
@@ -9998,6 +9951,10 @@
             "target": "Package",
             "version": "[16.11.0, )"
           },
+          "NUnit": {
+            "target": "Package",
+            "version": "[4.2.2, )"
+          },
           "Xunit.DependencyInjection": {
             "target": "Package",
             "version": "[8.7.0, )"
@@ -10007,10 +9964,6 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.0, )"
-          },
-          "xunit": {
-            "target": "Package",
-            "version": "[2.4.2, )"
           },
           "xunit.runner.visualstudio": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -10030,26 +9983,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
