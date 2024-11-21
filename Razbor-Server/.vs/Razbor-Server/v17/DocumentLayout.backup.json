@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\unittest\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\tokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\tokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\tokenservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\options\\jwtoptions\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\options\\jwtoptions\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\options\\jwtoptions\\jwtbeareroptionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\options\\jwtoptions\\jwtbeareroptionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\options\\jwtoptions\\jwtoptionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\options\\jwtoptions\\jwtoptionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\unittest\\jwt\\jwtbeareroptionsconfigurationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\jwt\\jwtbeareroptionsconfigurationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\hashingservice\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\hashingservice\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\services\\hashingservice\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58305369-A3ED-45B6-9285-E9496A4E0B74}|Services\\Services.csproj|solutionrelative:services\\hashingservice\\ihashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\unittest\\jwt\\hashingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\jwt\\hashingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E0450-ACCF-4936-BFD2-063C3000D514}|Responses\\Responses.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\responses\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E0450-ACCF-4936-BFD2-063C3000D514}|Responses\\Responses.csproj|solutionrelative:responses\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1317280D-CFF4-4B47-B5B3-3FB9A00B505B}|RequestBodies\\RequestBodies.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\requestbodies\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1317280D-CFF4-4B47-B5B3-3FB9A00B505B}|RequestBodies\\RequestBodies.csproj|solutionrelative:requestbodies\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1317280D-CFF4-4B47-B5B3-3FB9A00B505B}|RequestBodies\\RequestBodies.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\requestbodies\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1317280D-CFF4-4B47-B5B3-3FB9A00B505B}|RequestBodies\\RequestBodies.csproj|solutionrelative:requestbodies\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\unittest\\controllers\\authenticationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\controllers\\authenticationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10247822-59BC-487E-8327-756659BD77BE}|API\\API.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10247822-59BC-487E-8327-756659BD77BE}|API\\API.csproj|solutionrelative:api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\api.features\\authentication\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|solutionrelative:api.features\\authentication\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\api.features\\authentication\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|solutionrelative:api.features\\authentication\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\razbor.dal\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\razbor.dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +87,233 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationControllerTests.cs",
-              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "RelativeDocumentMoniker": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "RelativeToolTip": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB0AAABFAAAAAAAAAA==",
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\TokenService.cs",
+              "RelativeDocumentMoniker": "UnitTest\\jwt\\TokenService.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\TokenService.cs*",
+              "RelativeToolTip": "UnitTest\\jwt\\TokenService.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwEUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:37:01.379Z",
+              "WhenOpened": "2024-11-21T23:29:54.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtBearerOptionsConfigurationTests.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\JwtBearerOptionsConfigurationTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\jwt\\JwtBearerOptionsConfigurationTests.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\JwtBearerOptionsConfigurationTests.cs",
+              "RelativeToolTip": "UnitTest\\jwt\\JwtBearerOptionsConfigurationTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:19:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtOptionsConfiguration.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtOptionsConfiguration.cs",
+              "RelativeDocumentMoniker": "Services\\Options\\JwtOptions\\JwtOptionsConfiguration.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtOptionsConfiguration.cs",
+              "RelativeToolTip": "Services\\Options\\JwtOptions\\JwtOptionsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:18:28.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Services\\Options\\JwtOptions\\JwtOptions.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtOptions.cs",
+              "RelativeToolTip": "Services\\Options\\JwtOptions\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:18:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtBearerOptionsConfiguration.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtBearerOptionsConfiguration.cs",
+              "RelativeDocumentMoniker": "Services\\Options\\JwtOptions\\JwtBearerOptionsConfiguration.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Options\\JwtOptions\\JwtBearerOptionsConfiguration.cs",
+              "RelativeToolTip": "Services\\Options\\JwtOptions\\JwtBearerOptionsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:18:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashingServiceTests.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\HashingServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\jwt\\HashingServiceTests.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\jwt\\HashingServiceTests.cs",
+              "RelativeToolTip": "UnitTest\\jwt\\HashingServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:15:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHashingService.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\HashingService\\IHashingService.cs",
+              "RelativeDocumentMoniker": "Services\\HashingService\\IHashingService.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\HashingService\\IHashingService.cs",
+              "RelativeToolTip": "Services\\HashingService\\IHashingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:13:18.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\TokenService\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService\\TokenService.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\TokenService\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:13:25.062Z",
+              "WhenOpened": "2024-11-21T23:12:52.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\TokenService\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService\\ITokenService.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\TokenService\\ITokenService.cs",
+              "RelativeToolTip": "Services\\TokenService\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:50.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashingService.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\HashingService\\HashingService.cs",
+              "RelativeDocumentMoniker": "Services\\HashingService\\HashingService.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\HashingService\\HashingService.cs",
+              "RelativeToolTip": "Services\\HashingService\\HashingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Authentication\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\Authentication\\LoginResponse.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Authentication\\LoginResponse.cs",
+              "RelativeToolTip": "Responses\\Authentication\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:21.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\Authentication\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "RequestBodies\\Authentication\\RegisterRequest.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\Authentication\\RegisterRequest.cs",
+              "RelativeToolTip": "RequestBodies\\Authentication\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:10.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\Authentication\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RequestBodies\\Authentication\\LoginRequest.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\Authentication\\LoginRequest.cs",
+              "RelativeToolTip": "RequestBodies\\Authentication\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseExtensions.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseExtensions.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\DatabaseExtensions.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseExtensions.cs",
+              "RelativeToolTip": "Razbor.DAL\\DatabaseExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:19:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\DatabaseContext.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseContext.cs",
+              "RelativeToolTip": "Razbor.DAL\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:19:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\Authentication\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "API.Features\\Authentication\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\Authentication\\DeleteUserHandler.cs",
+              "RelativeToolTip": "API.Features\\Authentication\\DeleteUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:14:39.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterHandler.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\Authentication\\RegisterHandler.cs",
+              "RelativeDocumentMoniker": "API.Features\\Authentication\\RegisterHandler.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\Authentication\\RegisterHandler.cs",
+              "RelativeToolTip": "API.Features\\Authentication\\RegisterHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:12:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationControllerTests.cs",
+              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "RelativeToolTip": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAUBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:12:30.137Z",
               "EditorCaption": ""
             }
           ]
