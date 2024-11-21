@@ -201,3 +201,13 @@ C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\obj\Deb
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\obj\Debug\net8.0\UnitTest.pdb
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\obj\Debug\net8.0\UnitTest.genruntimeconfig.cache
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\UnitTest\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
