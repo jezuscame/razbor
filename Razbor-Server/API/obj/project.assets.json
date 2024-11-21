@@ -8136,23 +8136,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Erikas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\domin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API\\API.csproj",
+      "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Erikas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API\\obj\\",
+      "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
+      "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Erikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8160,24 +8156,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
-              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj"
+            "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
+              "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj"
             },
-            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+            "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+              "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
             },
-            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+            "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+              "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
             },
-            "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
-              "projectPath": "C:\\Users\\Erikas\\Documents\\GitHub\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
+            "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+              "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
             }
           }
         }
@@ -8261,7 +8256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
