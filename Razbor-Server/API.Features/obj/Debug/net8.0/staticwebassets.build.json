@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "deorMAS3pHz246e7Lc5PVqCHqqsiRwCVxXZAPCqVo3g=",
+  "Hash": "yZ17Q6gMEcxSyq8clbDKgQzQoWhQH6QHbNoIyeDwNY0=",
   "Source": "API.Features",
   "BasePath": "_content/API.Features",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
       "Version": 2,
       "Source": "Responses",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
       "Version": 2,
       "Source": "Services",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

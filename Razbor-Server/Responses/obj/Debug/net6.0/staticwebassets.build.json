@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "Al00PlUB7TnUx2E6vpQlQ5XKB6TotK5sAH8IQMrse38=",
+  "Hash": "01cTMdjPdvXm20l2jWfq2AbxTS16NpqlQvseA48RkdA=",
   "Source": "Responses",
   "BasePath": "_content/Responses",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

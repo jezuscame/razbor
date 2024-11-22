@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj": {}
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
         "projectName": "API.Features",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,23 +22,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj"
               }
             }
           }
@@ -94,17 +95,17 @@
         }
       }
     },
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,23 +113,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj"
               }
             }
           }
@@ -216,17 +218,17 @@
         }
       }
     },
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -234,6 +236,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -293,6 +296,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -302,17 +319,17 @@
         }
       }
     },
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
         "projectName": "RequestBodies",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -320,14 +337,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               }
             }
           }
@@ -363,6 +381,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -375,17 +407,17 @@
         }
       }
     },
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
         "projectName": "Responses",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -393,17 +425,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               },
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj"
               }
             }
           }
@@ -443,6 +476,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -455,17 +502,17 @@
         }
       }
     },
-    "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj": {
+    "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\obj\\",
+        "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -473,14 +520,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-                "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+              "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+                "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
               }
             }
           }

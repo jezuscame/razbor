@@ -31,3 +31,14 @@ C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\Razbor.DAL\obj\D
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\refint\Database.dll
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.pdb
 C:\4_kursas_projektai\Testavimas\projektas\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\ref\Database.dll
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.deps.json
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.dll
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\bin\Debug\net6.0\Database.pdb
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.sourcelink.json
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.dll
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\refint\Database.dll
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\Database.pdb
+C:\Users\linku\Desktop\PST\razbor\Razbor-Server\Razbor.DAL\obj\Debug\net6.0\ref\Database.dll

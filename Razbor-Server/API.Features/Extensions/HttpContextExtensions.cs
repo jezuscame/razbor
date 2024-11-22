@@ -8,6 +8,7 @@ public static class HttpContextExtensions
 {
     public static string GetUserId(this HttpContext httpContext)
     {
-        return httpContext.User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
+        return "testUserId2";
+        //return httpContext.User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
     }
 }

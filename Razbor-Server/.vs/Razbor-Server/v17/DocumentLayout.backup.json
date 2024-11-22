@@ -1,13 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\",
+  "WorkspaceRootPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\unittest\\controllers\\authenticationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\unittest\\chattests\\chatcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\chattests\\chatcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\api.features\\chat\\chathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|solutionrelative:api.features\\chat\\chathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\api.features\\chat\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|solutionrelative:api.features\\chat\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\unittest\\chattests\\messagecomandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\chattests\\messagecomandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\api.features\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2CDF5-40BC-409A-A154-140C5C94E388}|API.Features\\API.Features.csproj|solutionrelative:api.features\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\razbor.dal\\tables\\chattable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\tables\\chattable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\razbor.dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\razbor.dal\\tables\\userinfotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\tables\\userinfotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\razbor.dal\\tables\\matchtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\tables\\matchtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\razbor.dal\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56563972-89AB-41C0-AD44-F3C64B9796D0}|Razbor.DAL\\Database.csproj|solutionrelative:razbor.dal\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\unittest\\controllers\\authenticationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\controllers\\authenticationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10247822-59BC-487E-8327-756659BD77BE}|API\\API.csproj|c:\\4_kursas_projektai\\testavimas\\projektas\\razbor\\razbor-server\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8D306F-471A-4ACA-8680-787E0206B2CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10247822-59BC-487E-8327-756659BD77BE}|API\\API.csproj|c:\\users\\linku\\desktop\\pst\\razbor\\razbor-server\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10247822-59BC-487E-8327-756659BD77BE}|API\\API.csproj|solutionrelative:api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,33 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchTable.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\MatchTable.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\Tables\\MatchTable.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\MatchTable.cs",
+              "RelativeToolTip": "Razbor.DAL\\Tables\\MatchTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:30:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChatCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\ChatTests\\ChatCommandHandler.cs",
+              "RelativeDocumentMoniker": "UnitTest\\ChatTests\\ChatCommandHandler.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\ChatTests\\ChatCommandHandler.cs",
+              "RelativeToolTip": "UnitTest\\ChatTests\\ChatCommandHandler.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwGgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:06:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageComandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\ChatTests\\MessageComandHandlerTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\ChatTests\\MessageComandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\ChatTests\\MessageComandHandlerTests.cs",
+              "RelativeToolTip": "UnitTest\\ChatTests\\MessageComandHandlerTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:23:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Chat\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "API.Features\\Chat\\MessageHandler.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Chat\\MessageHandler.cs",
+              "RelativeToolTip": "API.Features\\Chat\\MessageHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:51:38.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseContext.cs",
+              "RelativeToolTip": "Razbor.DAL\\DatabaseContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:29:53.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHandler.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Chat\\ChatHandler.cs",
+              "RelativeDocumentMoniker": "API.Features\\Chat\\ChatHandler.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Chat\\ChatHandler.cs",
+              "RelativeToolTip": "API.Features\\Chat\\ChatHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:05:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Extensions\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "API.Features\\Extensions\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\Extensions\\HttpContextExtensions.cs",
+              "RelativeToolTip": "API.Features\\Extensions\\HttpContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:04:52.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatTable.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\ChatTable.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\Tables\\ChatTable.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\ChatTable.cs",
+              "RelativeToolTip": "Razbor.DAL\\Tables\\ChatTable.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:30:02.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInfoTable.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\UserInfoTable.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\Tables\\UserInfoTable.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Tables\\UserInfoTable.cs",
+              "RelativeToolTip": "Razbor.DAL\\Tables\\UserInfoTable.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:30:10.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseExtensions.cs",
+              "RelativeDocumentMoniker": "Razbor.DAL\\DatabaseExtensions.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\DatabaseExtensions.cs",
+              "RelativeToolTip": "Razbor.DAL\\DatabaseExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:03:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:03:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthenticationControllerTests.cs",
-              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
               "RelativeDocumentMoniker": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\UnitTest\\Controllers\\AuthenticationControllerTests.cs",
               "RelativeToolTip": "UnitTest\\Controllers\\AuthenticationControllerTests.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T13:37:01.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "API\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:13:25.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:13:25.062Z"
             }
           ]
         }

@@ -7463,19 +7463,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\domin\\.nuget\\packages\\": {}
+    "C:\\Users\\linku\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "projectUniqueName": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "projectName": "RequestBodies",
-      "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
-      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-      "outputPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
+      "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "packagesPath": "C:\\Users\\linku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\linku\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7483,14 +7483,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
-              "projectPath": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
+            "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj": {
+              "projectPath": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Razbor.DAL\\Database.csproj"
             }
           }
         }
@@ -7526,6 +7527,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

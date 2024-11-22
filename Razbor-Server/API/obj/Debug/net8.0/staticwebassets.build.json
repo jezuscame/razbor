@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "ZOvq74lhVgAM6eEhD6C34XU/zW9wArC7cyM8VLeklcA=",
+  "Hash": "8HxtYN6Qc1NaDpfhG6ZUVF/HhE+HErrE62olFeXMT+g=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\API.Features\\API.Features.csproj",
       "Version": 2,
       "Source": "API.Features",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\RequestBodies\\RequestBodies.csproj",
       "Version": 2,
       "Source": "RequestBodies",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Responses\\Responses.csproj",
       "Version": 2,
       "Source": "Responses",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -40,7 +40,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\4_kursas_projektai\\Testavimas\\projektas\\razbor\\Razbor-Server\\Services\\Services.csproj",
+      "Identity": "C:\\Users\\linku\\Desktop\\PST\\razbor\\Razbor-Server\\Services\\Services.csproj",
       "Version": 2,
       "Source": "Services",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

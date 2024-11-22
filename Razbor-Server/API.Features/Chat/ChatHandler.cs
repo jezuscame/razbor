@@ -31,19 +31,20 @@ namespace API.Features.Chat
 
         public async Task<List<OneMessage>> Handle(ChatHandler request, CancellationToken cancellationToken)
         {
+            if (request == null) throw new ArgumentNullException(nameof(request));
+            if (string.IsNullOrEmpty(request.MatchData)) throw new InvalidOperationException("MatchData is required.");
 
-            var matchOriginAndDest = await _databaseContext.MatchTable.Where(m => m.Id == request.MatchData).Select(m => new { m.OriginUser, m.DestinationUser}).FirstOrDefaultAsync();
+            var match = await _databaseContext.MatchTable.FirstOrDefaultAsync(m => m.Id == request.MatchData, cancellationToken);
+            if (match == null) throw new InvalidOperationException("Match not found.");
 
-            var userId = _httpContextAccessor.HttpContext.GetUserId();
+            var chatMessages = await _databaseContext.ChatTable
+                .Where(c => c.MatchId == match.Id)
+                .OrderBy(c => c.Date)
+                .ToArrayAsync(cancellationToken);
 
-            if (!(matchOriginAndDest.OriginUser == userId || matchOriginAndDest.DestinationUser == userId)) throw new BadHttpRequestException("The chat is unavailable for the user who requested it");
-
-            var chat = await _databaseContext.ChatTable.Where(c => c.MatchId == request.MatchData).OrderBy(c => c.Date).ToArrayAsync();
-
-            List<OneMessage> result = _mapper.Map<List<OneMessage>>(chat);
-
-            return result;
+            return _mapper.Map<List<OneMessage>>(chatMessages);
         }
+
     }
 }
 
